@@ -114,7 +114,7 @@ We accept pull requests for:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/formatho/repository-name.git
+git clone https://github.com/formatho/md5-generator
 cd repository-name
 ```
 
@@ -182,7 +182,7 @@ Contributors are recognized in:
 
 - 📧 Email: support@formatho.com
 - 💬 Discord: [Formatho Discord](https://discord.gg/formatho)
-- 🐛 GitHub Issues: [Report an issue](https://github.com/formatho/repository-name/issues)
+- 🐛 GitHub Issues: [Report an issue](https://github.com/formatho/md5-generator/issues)
 
 ---
 
